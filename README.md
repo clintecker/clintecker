@@ -8,4 +8,3 @@
 - 💬 Ask me about python, distributed systems, identity, auth, software architecutre, VueJS, Firebase, Solidity, NFT contracts
 - 📫 How to reach me: [email](mailto:clint@clintecker.com), [Instagram](https://instagram.com/clintecker), [General Galactic Discord](https://discord.gg/YdPn94875j)
 - 😄 Pronouns: he/him
-- Mastodon: <a href="https://lgtm.systems/@clint" rel="me">@clint@lgtm.systems</a>
