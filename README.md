@@ -9,6 +9,6 @@
   - NFT Experiment: [Floppydisk.xyz](https://floppydisk.xyz/). [The Drop](https://galactic.io/posts/floppydisk-xyz/), [Technical Write-up](https://galactic.io/posts/the-codes-for-the-warez/), [OpenSea Collection](https://galactic.io/posts/camera/).
   - Sign-In with Ethereum (SIWE/EIP4361) [Node/JS imeplementation](https://github.com/generalgalactic/eip4361-tools).
 - 🌱 I’m currently learning about Transformer Architectures, Federated Learning, Edge Computing for AI, Explainable AI (XAI)
-- 💬 Ask me about python, distributed systems, identity, auth, software architecutre, VueJS, Firebase, Solidity, NFT contracts, Javascript, Google Cloud, AWS, Firebase
-- 📫 How to reach me: [email](mailto:clint@clintecker.com), [Instagram](https://instagram.com/clintecker).
+- 💬 Ask me about genAI, python, distributed systems, identity, auth, software architecutre, VueJS, Firebase, Solidity, NFT contracts, Javascript, Google Cloud, AWS, Firebase
+- 📫 How to reach me: [email](mailto:clint@clintecker.com)
 - 😄 Pronouns: he/him
